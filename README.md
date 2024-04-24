@@ -1,5 +1,7 @@
 ### Hello there 🐙
 
+These repos are quite old and probably no longer work at all. I have no idea. If you're looking for something current from me, check out Krekeny.
+
 <!--
 **samsour/samsour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
