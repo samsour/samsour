@@ -1,6 +1,8 @@
 ### Hello there 🐙
 
-These repos may be quite old and probably no longer work at all. I have no idea. If you're looking for something current from me, check out [@Krekeny](https://krekeny.com) or [@eny.social](https://bsky.app/profile/eny.social).
+These repos may be quite old and probably no longer work at all. I have no idea.
+Yes I am still active but mostly in private [gitlab](https://gitlab.com/sam_krekeny) repos.
+If you're looking for something current from me, check out [@Krekeny](https://krekeny.com) or [@eny.social](https://bsky.app/profile/eny.social).
 
 <!--
 **samsour/samsour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
